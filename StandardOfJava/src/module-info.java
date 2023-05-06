@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author INIS
+ *
+ */
+module StandardOfJava {
+}
