@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author INIS
- *
- */
-module StandardOfJava {
-}
